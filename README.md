@@ -4,6 +4,10 @@
 
 The **Voice Detector Library** is a versatile and user-friendly Android library that provides developers with a powerful tool for voice analysis and classification. With this library, you can easily detect and categorize various voice inputs, making it ideal for applications that require voice-controlled functionalities.
 
+## Preview Video
+
+Check out our library in action! Watch the sample video [here](sample/1697246352631477.mp4) to see how the Voice Analyzer Library detects and categorizes various sounds in real-time.
+
 ## Features
 
 - **Voice Classification:** The library allows you to classify audio recordings into predefined categories, making it easy to identify different sounds in real-time.
