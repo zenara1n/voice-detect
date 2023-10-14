@@ -1,8 +1,8 @@
-**Voice Analyzer Library**
+**Voice Detector Library**
 
-![Voice Analyzer Library](https://github.com/yourusername/voice-analyzer-library)
+![Voice Detector Library](icon.png)
 
-The **Voice Analyzer Library** is a versatile and user-friendly Android library that provides developers with a powerful tool for voice analysis and classification. With this library, you can easily detect and categorize various voice inputs, making it ideal for applications that require voice-controlled functionalities.
+The **Voice Detector Library** is a versatile and user-friendly Android library that provides developers with a powerful tool for voice analysis and classification. With this library, you can easily detect and categorize various voice inputs, making it ideal for applications that require voice-controlled functionalities.
 
 ## Features
 
@@ -43,7 +43,7 @@ implementation 'org.tensorflow:tensorflow-lite-task-audio:0.4.4'
 
 ### Usage
 
-#### Initialize the Voice Analyzer
+#### Initialize the Voice Detector
 
 Create an instance of the `AudioAnalyzer` and start the analysis process.
 
@@ -105,9 +105,9 @@ Here are some example labels from the `ModelClassification` object:
 
 These labels are used in your application code to specify the action to be taken when a specific sound is detected.
 
-The **Voice Analyzer Library** empowers your Android application with real-time voice analysis and classification, making it a valuable addition for voice-controlled applications and voice-activated features. With its simplicity and configurability, you can create interactive and engaging experiences for your users.
+The **Voice Detector Library** empowers your Android application with real-time voice analysis and classification, making it a valuable addition for voice-controlled applications and voice-activated features. With its simplicity and configurability, you can create interactive and engaging experiences for your users.
 
-Get started with the Voice Analyzer Library and unlock the potential of voice-controlled interactions in your Android app.
+Get started with the Voice Detector Library and unlock the potential of voice-controlled interactions in your Android app.
 
 ### Thanks & Support
 
