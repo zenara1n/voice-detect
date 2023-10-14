@@ -37,6 +37,8 @@ To get started, add the library to your Android project by including it in your 
 
 ```gradle
 implementation 'com.github.zenara1n:voice-detect:1.0'
+implementation 'org.tensorflow:tensorflow-lite-task-audio:0.4.4'
+
 ```
 
 ### Usage
